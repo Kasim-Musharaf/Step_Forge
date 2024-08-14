@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size]()
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Kasim-Musharaf/Step_Forge)
  
   <br />
   <br />
