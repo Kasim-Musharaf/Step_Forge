@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![StepForge Desktop Demo](.assets/images/Previews.jpg")
+![StepForge Desktop Demo]("assets/images/Previews.jpg")
 
 ### Prerequisites
 
