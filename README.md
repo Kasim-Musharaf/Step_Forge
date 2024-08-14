@@ -9,7 +9,7 @@
 
   StepForge is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=" https://kasim-musharaf.github.io/Step_Forge/"><strong>➥ Live Demo</strong></a>
+  <a href="https://kasim-musharaf.github.io/Step_Forge/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
