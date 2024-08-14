@@ -32,7 +32,7 @@ To run **StepForge** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/Kasim-Musharaf/Step_Forge.git
 ```
 
 Windows:
