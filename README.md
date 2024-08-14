@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![StepForge Desktop Demo]("assets/images/OVERVIEW.png")
+![StepForge Desktop Demo]("Kasim-Musharaf/Step_Forge/assets/images/OVERVIEW.png")
 
 ### Prerequisites
 
